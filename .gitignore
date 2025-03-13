@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+Dataset/
+processed_audio/
+uploads/
+.env
+transcripts.csv
+whisper_transcriptions.csv

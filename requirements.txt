@@ -1,0 +1,12 @@
+pandas 
+openpyxl
+pyxlsb 
+soundfile 
+torchaudio 
+pydub 
+transformers
+openai-whisper
+pyannote.audio
+jiwer
+flask
+dotenv
